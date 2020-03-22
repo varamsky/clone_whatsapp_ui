@@ -17,7 +17,6 @@ Future<void> main() async {
 
 //TODO: Solve Camera Issue
 //TODO: Add Sliver Appbar
-//TODO: Add Main Chat Screen
 //TODO: Improve Status List Screen
 
 class MyApp extends StatelessWidget {
