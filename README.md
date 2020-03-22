@@ -2,15 +2,16 @@
 
 This is a Whatsapp UI clone using Flutter.
 
-## Getting Started
+### Prevailing Issues
 
-This project is a starting point for a Flutter application.
+1. TODO: Solve Camera Issue
+2. TODO: Add Sliver Appbar
+3. TODO: Improve Status List Screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <hr>
+<img align="left" width="400" height="700" src="https://github.com/varamsky/clone_whatsapp_ui/blob/master/Screenshot_20200322-133449.jpeg"/>
+<img align="left" width="400" height="700" src="https://github.com/varamsky/clone_whatsapp_ui/blob/master/Screenshot_20200322-133455.jpeg"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img align="left" width="400" height="700" src="https://github.com/varamsky/clone_whatsapp_ui/blob/master/Screenshot_20200322-133501.jpeg"/>
+<img align="left" width="400" height="700" src="https://github.com/varamsky/clone_whatsapp_ui/blob/master/Screenshot_20200322-133517.jpeg"/>
